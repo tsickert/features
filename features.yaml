@@ -1,0 +1,5 @@
+flags:
+  - key: test
+    name: testFlag
+    description: a flag to test with
+    enabled: true
